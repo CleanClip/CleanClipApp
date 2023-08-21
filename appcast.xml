@@ -19,7 +19,7 @@
       <releaseNotesLink>https://github.com/auv1107/cleancliprun/releases/tag/v1.0.1</releaseNotesLink>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/auv1107/cleancliprun/releases/download/v1.0.1/CleanClip.dmg"
+        url="https://github.com/auv1107/cleancliprun/releases/download/v1.0.1/CleanClip.app.zip"
         sparkle:version="2"
         sparkle:shortVersionString="1.0.1"
         length="0"
