@@ -10,8 +10,9 @@
       <description>
         <![CDATA[
           <ul>
-            <li>添加暗黑模式支持</li>
-            <li>支持更多历史记录</li>
+            <li>支持暗黑模式</li>
+            <li>支持自动更新</li>
+            <li>调整 UI</li>
           </ul>
         ]]>
       </description>
