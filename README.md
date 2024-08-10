@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://cleanclip.cc/images/logo.webp" alt="CleanClip Logo" width="200" height="auto">
+<a href="https://cleanclip.cc">
+  <img src="https://cleanclip.cc/images/logo.webp" alt="CleanClip Logo" width="200" height="auto">
+</a>
 
 # CleanClip
 
@@ -11,7 +13,7 @@ The cleanest Clipboard Manager on macOS, ever!
   </a>
   </p>
 
-  <a href="https://apps.apple.com/cn/app/cleanclip-clipboard-manager/id1617784428?mt=12">
+  <a href="https://apps.apple.com/us/app/cleanclip/id6463153747">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/us?size=250x83&releaseDate=1654041600" alt="Mac App Store" height="40">
   </a>
 </div>
